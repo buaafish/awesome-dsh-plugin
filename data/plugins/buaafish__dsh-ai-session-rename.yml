@@ -1,0 +1,8 @@
+url: https://github.com/buaafish/dsh-ai-session-rename
+name: buaafish/dsh-ai-session-rename
+category: session
+description:
+  en: 'Adds a sidebar session menu action that regenerates the session title from its own user messages using the provider and model that session last used, and exposes the same call as an agent tool that cannot touch other sessions.'
+  zh: '在侧边栏会话右键菜单加一项，用该会话上次请求所用的模型，从它自己的用户消息重新生成会话标题；同一能力也作为 agent 工具暴露，且只能改调用方自己的会话。'
+icon: https://raw.githubusercontent.com/buaafish/dsh-ai-session-rename/main/assets/icon-180.png
+tarball: https://github.com/buaafish/dsh-ai-session-rename/releases/latest/download/dsh-ai-session-rename.tgz
